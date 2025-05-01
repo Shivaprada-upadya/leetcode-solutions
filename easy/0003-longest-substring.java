@@ -2,7 +2,8 @@
 
 // Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/
 // Date: 2025-05-01
-// Approach: Sliding window with HashSet to track longest unique-character substring.
+// Approach: HashMap to find complement of each element in the array.
+
 
 
 
