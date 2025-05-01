@@ -1,6 +1,6 @@
 // Problem: Reverse Integer
 // Link: https://leetcode.com/problems/reverse-integer/
-// Date: 2025-05-01
+// Date: 2024-11-06
 // Approach: Reverse digits using modulus and division, while handling integer overflow.
 
 class Solution {
