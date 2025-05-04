@@ -10,3 +10,5 @@ This repository contains my solutions to LeetCode problems organized by difficul
 
 ## Hard
 
+Shivaprada Upadya
+
