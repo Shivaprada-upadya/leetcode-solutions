@@ -4,7 +4,6 @@
 // Approach: HashMap to find complement of each element in the array.
 
 import java.util.*;
-
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         HashMap<Integer, Integer> map = new HashMap<>();
