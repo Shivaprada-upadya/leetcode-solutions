@@ -2,7 +2,6 @@
 // Link: https://leetcode.com/problems/two-sum/
 // Date: 2025-04-30
 // Approach: HashMap to find complement of each element in the array.
-
 import java.util.*;
 class Solution {
     public int[] twoSum(int[] nums, int target) {
