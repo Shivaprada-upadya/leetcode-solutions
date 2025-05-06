@@ -13,8 +13,7 @@ class Solution {
             if (map.containsKey(complement)) {
                 return new int[] { map.get(complement), i };
             }
-
-            // Store the current number and its index in the map
+           // Store the current number and its index in the map
             map.put(nums[i], i);
         }
         return new int[] {};  // If no solution found, return empty array
