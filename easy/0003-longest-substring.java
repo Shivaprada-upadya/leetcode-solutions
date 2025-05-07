@@ -4,7 +4,6 @@
 // Date: 2025-05-01
 // Approach: HashMap to find complement of each element in the array.
 
-
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
