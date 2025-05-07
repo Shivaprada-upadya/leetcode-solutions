@@ -7,7 +7,6 @@
 
 
 
-
 class Solution {
     public int lengthOfLongestSubstring(String s) {
         HashSet<Character> set = new HashSet<>();
