@@ -32,7 +32,8 @@ class Solution {
 
         prevValue=curr;
        }
-       
+
        return total;
     }
+    
 }
