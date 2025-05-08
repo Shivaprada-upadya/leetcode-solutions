@@ -19,11 +19,12 @@ class Solution {
        for(int i=s.length()-1;i>=0;i--)
        {
         int curr=map.get(s.charAt(i));
-        
+
         if(curr<prevValue)
         {
             total-=curr;
         }
+        
         else
         {
             total+=curr;
