@@ -24,11 +24,12 @@ class Solution {
         {
             total-=curr;
         }
-        
+
         else
         {
             total+=curr;
         }
+        
         prevValue=curr;
        }
        return total;
