@@ -20,7 +20,6 @@ class Solution {
         if(curr<prevValue)
         {
             total-=curr;
-
         }
         else
         {
