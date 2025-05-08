@@ -29,9 +29,10 @@ class Solution {
         {
             total+=curr;
         }
-        
+
         prevValue=curr;
        }
+       
        return total;
     }
 }
