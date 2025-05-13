@@ -19,4 +19,5 @@ class Solution {
             reversed = reversed * 10 + digit;
         }
         return reversed;
-         }}
+         }
+        }
