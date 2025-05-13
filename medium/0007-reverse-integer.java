@@ -15,8 +15,7 @@ class Solution {
             }
             if (reversed < Integer.MIN_VALUE / 10 || (reversed == Integer.MIN_VALUE / 10 && digit < -8)) {
                 return 0; 
-            }
-            
+            }   
             reversed = reversed * 10 + digit;
         }
         
