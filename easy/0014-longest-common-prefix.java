@@ -20,5 +20,5 @@ class Solution {
             }
         }  
         return s1.substring(0,idx);      
-           }
+    }
 }
