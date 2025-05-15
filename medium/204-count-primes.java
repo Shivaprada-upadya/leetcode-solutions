@@ -19,8 +19,7 @@ class Solution {
                     flag = false;
                     break;
                 }
-            }
-            
+            } 
             if (flag) {
                 count++;
             }
