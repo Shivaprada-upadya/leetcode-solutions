@@ -9,8 +9,7 @@ class Solution {
             return 0;
         
         int count = 0;
-        boolean flag = true;
-        
+        boolean flag = true;        
         for (int i = 2; i < n; i++) {  // changed i <= n to i < n
             flag = true;
             
