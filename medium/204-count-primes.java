@@ -2,7 +2,6 @@
 // Link: https://leetcode.com/problems/count-primes/
 // Date: 2025-04-30
 // Approach: Using a sieve method to count primes less than n.
-
 class Solution {
     public int countPrimes(int n) {
         if (n <= 2)
