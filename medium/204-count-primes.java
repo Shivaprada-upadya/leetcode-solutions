@@ -5,8 +5,7 @@
 class Solution {
     public int countPrimes(int n) {
         if (n <= 2)
-            return 0;
-        
+            return 0;  
         int count = 0;
         boolean flag = true;        
         for (int i = 2; i < n; i++) {  // changed i <= n to i < n
