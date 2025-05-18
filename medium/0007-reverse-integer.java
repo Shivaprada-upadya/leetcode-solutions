@@ -3,7 +3,6 @@
 // Date: 2024-11-06
 // Approach: Reverse digits using modulus and division, while handling integer overflow.
 
-
 class Solution {
     public int reverse(int x) {
         int reversed = 0;
