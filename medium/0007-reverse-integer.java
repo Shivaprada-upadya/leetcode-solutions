@@ -15,8 +15,7 @@ class Solution {
                 return 0; 
             }   
             reversed = reversed * 10 + digit;
-        }
-        
+        }      
         return reversed;
         }
 }
