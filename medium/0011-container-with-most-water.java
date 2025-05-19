@@ -3,7 +3,6 @@
 // Date: 2024-12-19
 // Approach: Reverses the number and compares it to the original to check for a palindrome.
 
-
 class Solution {
     public int maxArea(int[] height) {
         //Arrays.sort(height);
