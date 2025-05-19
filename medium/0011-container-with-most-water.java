@@ -21,7 +21,6 @@ class Solution {
            {
             right--;
            }
-
         }
      return maxarea;
         
