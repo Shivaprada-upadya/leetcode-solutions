@@ -25,6 +25,7 @@ class Solution {
         for (i = 0; i < even; i++) {
             nums[i] = 0;
         }
+        
 
         // Fill the rest with 1
         for (int j = i; j < nums.length; j++) {
