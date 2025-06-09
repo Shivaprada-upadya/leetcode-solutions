@@ -1,7 +1,7 @@
 // Problem: Count Pairs Whose Sum is Less than Target
 // Link: https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
 // Date: 2025-09-04
-// Approach: Using Brute-force method
+// Approach: Find and return the two numbers that appear twice.
 
 class Solution {
     public int[] getSneakyNumbers(int[] nums) {
