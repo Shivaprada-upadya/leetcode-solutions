@@ -1,11 +1,27 @@
 // Problem: Count Pairs Whose Sum is Less than Target
-// Link: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/
-// Date: 2025-06-04
+// Link: https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/
+// Date: 2025-09-04
 // Approach: Using Brute-force method
 
+class Solution {
+    public int[] getSneakyNumbers(int[] nums) {
+        int n=nums.length;
 
-public class 3289-Two-Sneaky-Numbers-of_Digitville {
-    
+        int count[]=new int[n];
 
-    
+        int result[] =new int[2];
+        int i=0;
+        for(int num:nums)
+        {
+            count[num]++;
+
+            if(count[num]==2)
+            {
+                result[i++]=num;
+            }
+        }
+
+        return result;
+
+    }
 }
