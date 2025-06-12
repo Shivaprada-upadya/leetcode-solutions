@@ -8,7 +8,8 @@ class Solution {
                 if(words.charAt(i)==allowed.charAt(i))
                 {
                     ans++;
-                }            
+                }   
+                         
             }         
         }            
         return ans;       
