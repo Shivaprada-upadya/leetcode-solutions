@@ -10,7 +10,8 @@ class Solution {
                     ans++;
                 }                     
             }         
-        }            
+        } 
+                   
         return ans;       
     }
 }
