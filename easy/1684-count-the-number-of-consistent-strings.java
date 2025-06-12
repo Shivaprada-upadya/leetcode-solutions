@@ -1,3 +1,4 @@
+
 class Solution {
     public int countConsistentStrings(String allowed, String[] words) {
         int ans=0;
