@@ -1,6 +1,6 @@
 // Problem: Number of 1 Bits
 // Link: https://leetcode.com/problems/number-of-1-bits/
-// Date: 2024-12-18
+// Date: 2025-06-13
 // Approach: Use a stack to match opening and closing brackets; return false on mismatch or imbalance.
 
 
