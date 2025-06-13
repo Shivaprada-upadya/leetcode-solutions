@@ -1,4 +1,4 @@
-// Problem: Valid Parentheses
+// Problem: Number of 1 Bits
 // Link: https://leetcode.com/valid-parentheses/
 // Date: 2024-12-18
 // Approach: Use a stack to match opening and closing brackets; return false on mismatch or imbalance.
