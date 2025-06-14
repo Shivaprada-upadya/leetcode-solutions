@@ -1,3 +1,4 @@
+
 class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {
         ArrayList<Integer> list=new ArrayList<Integer>();
