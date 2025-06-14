@@ -1,5 +1,5 @@
-// Problem: Number of 1 Bits
-// Link: https://leetcode.com/problems/number-of-1-bits/
+// Problem:  Create Target Array in the Given Order
+// Link: https://leetcode.com/problems/create-target-array-in-the-given-order/
 // Date: 2025-06-13
 // Approach: using bitwise operator
 
