@@ -1,7 +1,7 @@
 // Problem:  Create Target Array in the Given Order
 // Link: https://leetcode.com/problems/create-target-array-in-the-given-order/
 // Date: 2025-06-14
-// Approach: using bitwise operator
+// Approach: using arraylist 
 
 class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {
