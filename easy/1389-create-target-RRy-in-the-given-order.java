@@ -3,7 +3,6 @@
 // Date: 2025-06-14
 // Approach: using arraylist 
 
-
 class Solution {
     public int[] createTargetArray(int[] nums, int[] index) {
         ArrayList<Integer> list=new ArrayList<Integer>();
