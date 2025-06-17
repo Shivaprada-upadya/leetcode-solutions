@@ -14,7 +14,6 @@ class Solution {
         for (int i = 1; i < n; i++) {
             leftSum[i] = leftSum[i - 1] + nums[i - 1];
         }
-
         // Calculate right sums
         for (int i = n - 2; i >= 0; i--) {
             rightSum[i] = rightSum[i + 1] + nums[i + 1];
