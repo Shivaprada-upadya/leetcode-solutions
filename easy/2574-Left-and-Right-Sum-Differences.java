@@ -10,7 +10,6 @@ class Solution {
         int[] leftSum = new int[n];
         int[] rightSum = new int[n];
         int[] answer = new int[n];
-
         // Calculate left sums
         for (int i = 1; i < n; i++) {
             leftSum[i] = leftSum[i - 1] + nums[i - 1];
