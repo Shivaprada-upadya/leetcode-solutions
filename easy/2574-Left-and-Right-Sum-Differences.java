@@ -2,7 +2,6 @@
 // Link: https://leetcode.com/problems/left-and-right-sum-differences/
 // Date: 2025-06-016
 // Approach: Brute force 
-
 class Solution {
     public int[] leftRightDifference(int[] nums) {
         int n = nums.length;       
