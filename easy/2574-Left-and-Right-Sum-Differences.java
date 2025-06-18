@@ -23,7 +23,6 @@ class Solution {
         for (int i = 0; i < n; i++) {
             answer[i] = Math.abs(leftSum[i] - rightSum[i]);
         }
-
         return answer;
     }
 }
