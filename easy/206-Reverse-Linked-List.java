@@ -1,3 +1,8 @@
+// Problem: Reverse Linked List
+// Link: https://leetcode.com/problems/reverse-linked-list/
+// Date: 2025-04-28
+// Approach: Using Rotation and Temp Node
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {
