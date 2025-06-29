@@ -1,3 +1,9 @@
+// Problem: Convert the Temperature
+// Link: https://leetcode.com/problems/convert-the-temperature/
+// Date: 2025-06-29
+// Approach: Using temperature formula
+
+
 class Solution {
     public double[] convertTemperature(double celsius) {
         double kelvin=celsius + 273.15;
