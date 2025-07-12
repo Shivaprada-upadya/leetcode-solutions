@@ -17,6 +17,7 @@ class Solution {
                 sb.append(address.charAt(i));
             }
         }
+        
         return sb.toString();        
     }
 }
