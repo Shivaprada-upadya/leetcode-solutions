@@ -21,9 +21,6 @@ class Solution {
             return longest;
 
     }
-
-
-
     public static boolean isPalindrome(String s)
     {
         int left=0;
