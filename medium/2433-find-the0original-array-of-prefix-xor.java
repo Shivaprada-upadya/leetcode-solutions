@@ -1,3 +1,9 @@
+// Problem: Find The Original Array of Prefix Xor
+// Link: https://leetcode.com/problems/find-the-original-array-of-prefix-xor/
+// Date: 2025-07-13
+// Approach: brute force and xor operation
+
+
 class Solution {
     public int[] findArray(int[] pref) {
         int n=pref.length;
