@@ -1,6 +1,7 @@
-
-
-// Adding two Strings
+// Problem: Add Strings
+// Link: https://leetcode.com/problems/add-strings/
+// Date: 2025-09-12
+// Approach: Two Pointer
 class Solution {
     public String addStrings(String num1, String num2) {
         int i=num1.length()-1, j=num2.length()-1;
