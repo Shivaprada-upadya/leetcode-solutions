@@ -1,3 +1,4 @@
+// approach : maths
 class Solution {
     public int SumOfSquare(int num)
     {
